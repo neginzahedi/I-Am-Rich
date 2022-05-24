@@ -4,7 +4,8 @@ This is a simple one-page iOS app written in Swift 5 and designed with Storyboar
 - CAGradientLayer class
 - UIViewImage
 - UIViewLabel
+- Assets/AppIcon
 
 <h3 align="center">
-<img src="" alt="Screenshot of I Am Rich App" />
+<img src="app-img.jpg" alt="Screenshot of I Am Rich App" height="400"/>
 </h3>
